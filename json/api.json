@@ -1,0 +1,17 @@
+{
+    "Name": "STD_Table",
+    "version": "1.1.1",
+    "company": "SiliconBrains",
+    "Language": "python3.10",
+    "Modules": [
+        "pandas",
+        "os"
+    ],
+    "Deceloper": {
+        "name": "Maikal shivankar",
+        "age": 16,
+        "company": "SiliconBrains",
+        "Email": "Codexpro061@gmail.com",
+        "Youtube": "Yeman Tech"
+    }
+}
